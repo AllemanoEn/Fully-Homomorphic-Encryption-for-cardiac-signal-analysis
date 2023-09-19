@@ -1,0 +1,22 @@
+# Concrete ignore
+concrete_exploration/server.zip
+
+# Venv ignore
+bin/
+lib/
+lib64
+pyvenv.cfg
+
+# requirements install ignore
+etc/
+share/
+
+# other ignore
+.artifacts
+
+# python ignore
+__pycache__/
+
+# ignore zip file
+*.zip
+Pan_Tompkins_QRS_Detection/mit-bih-arrhythmia-database-1.0.0/

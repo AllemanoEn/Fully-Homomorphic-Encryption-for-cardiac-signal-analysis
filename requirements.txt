@@ -1,0 +1,9 @@
+numpy
+wheel
+setuptools
+concrete-python==1.0.0
+ipykernel
+nbformat
+python-time
+matplotlib
+zipfile36
